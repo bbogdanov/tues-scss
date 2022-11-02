@@ -1,5 +1,7 @@
 # Usage of SCSS
 
+Hello world!
+
 ## Steps
 
 - Clone the repo
